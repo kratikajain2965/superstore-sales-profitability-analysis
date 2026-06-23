@@ -176,7 +176,7 @@ superstore-sales-profitability-analysis/
 ├── Superstore_Sales_Analytics.pbix
 ├── dashboard_executive.png
 ├── dashboard_customer_product.png
-├── Sample_Superstore.csv
+├── Sample_Superstore.zip
 └── README.md
 ```
 
