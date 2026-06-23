@@ -112,11 +112,12 @@ A relatively small group of customers and products contributed a disproportionat
 
 ### Executive Dashboard
 
-*(Insert Screenshot)*
+![Executive Dashboard](dashboard_executive.png)
 
 ### Customer & Product Dashboard
 
-*(Insert Screenshot)*
+![Customer & Product Dashboard](dashboard_customer_product.png)
+
 
 ---
 
