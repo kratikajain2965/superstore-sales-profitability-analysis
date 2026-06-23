@@ -1,6 +1,6 @@
 # E-Commerce Sales & Profitability Analysis
 
-![Executive Dashboard](dashboard_executive.png)
+
 
 ## Executive Summary
 
@@ -9,6 +9,13 @@ This project analyzes nearly 10,000 retail transactions from a U.S. Superstore t
 Using Python for exploratory analysis and Power BI for dashboard development, the study uncovered significant profitability challenges linked to discounting practices, product mix, and regional performance disparities.
 
 The analysis revealed that while Technology products generated the highest profits, excessive discounting remained a major contributor to profit erosion across multiple categories and markets.
+
+## Project Highlights
+
+* Analyzed ~10,000 retail transactions to identify profitability drivers and business growth opportunities.
+* Built a two-page interactive Power BI dashboard with KPI tracking and drill-down analysis.
+* Identified a strong negative correlation (-0.67) between discounting and profitability.
+* Developed consulting-style business recommendations focused on pricing, product mix, and regional performance.
 
 ---
 
