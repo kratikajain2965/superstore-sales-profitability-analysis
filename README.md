@@ -1,5 +1,7 @@
 # E-Commerce Sales & Profitability Analysis
 
+![Executive Dashboard](dashboard_executive.png)
+
 ## Executive Summary
 
 This project analyzes nearly 10,000 retail transactions from a U.S. Superstore to identify the key drivers of sales, profitability, customer performance, and regional growth opportunities.
